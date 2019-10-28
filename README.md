@@ -1,4 +1,4 @@
-# TeachBot
+# TeachBot: TDS Fork
 
 ## First Setup Only
 The following is adapted from http://sdk.rethinkrobotics.com/intera/Workstation_Setup and http://wiki.ros.org/melodic/Installation/Ubuntu for Ubuntu 18.04 and ROS Melodic.
